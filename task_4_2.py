@@ -20,3 +20,5 @@ print(mac)
 
 #mac = mac.replace(':', '.')
 
+#P.S. join мы все-таки уже проходили.
+
